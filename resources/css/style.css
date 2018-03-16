@@ -51,3 +51,7 @@ h3 {
   color: white;
   background-color: dimgray;
 }
+
+li {
+  display: inline;
+}
